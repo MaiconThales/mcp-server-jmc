@@ -1,0 +1,8 @@
+<configuration>
+  <!-- stdout is reserved for MCP JSON-RPC frames. -->
+  <appender name="STDERR" class="ch.qos.logback.core.ConsoleAppender">
+    <target>System.err</target>
+    <encoder><pattern>%d{ISO8601} %-5level [%thread] %logger{36} - %msg%n</pattern></encoder>
+  </appender>
+  <root level="ERROR"><appender-ref ref="STDERR"/></root>
+</configuration>

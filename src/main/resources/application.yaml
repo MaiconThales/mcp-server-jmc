@@ -1,3 +1,10 @@
 spring:
   application:
     name: mcp-server-jmc
+  main:
+    banner-mode: "off"
+logging:
+  console:
+    enabled: false
+  level:
+    root: ERROR
