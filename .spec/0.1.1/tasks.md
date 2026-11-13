@@ -23,5 +23,5 @@
 ## Épico 4: Auditoria de Padrões e Testes (`0.1.1`)
 
 - [x] **T4.1:** Atualizar a estrutura de pacotes de `src/test/java` para `io.github.maiconthales.mcp_server_jmc`, se necessário, e rodar `mvn test`.
-- [ ] **T4.2:** Auditar o código-fonte para garantir: (a) zero ocorrências de `@Data`, (b) zero DTOs internos/agrupados, (c) todas as classes `@Component` dentro de `component.*`, (d) classes `@Service` mantidas em `service`, (e) `PathValidator` mantido em `validator`, (f) JavaDoc em português em 100% das classes/métodos e (g) nomenclatura `CamelCase` / `lowerCamelCase`.
-- [ ] **T4.3:** Gerar o artefato `mcp-server-jmc-0.1.1.jar` via `mvn clean package` e validar a execução via `STDIO`.
+- [x] **T4.2:** Auditar o código-fonte para garantir: (a) zero ocorrências de `@Data`, (b) zero DTOs internos/agrupados, (c) todas as classes `@Component` dentro de `component.*`, (d) classes `@Service` mantidas em `service`, (e) `PathValidator` mantido em `validator`, (f) JavaDoc em português em 100% das classes/métodos e (g) nomenclatura `CamelCase` / `lowerCamelCase`.
+- [x] **T4.3:** Gerar o artefato `mcp-server-jmc-0.1.1.jar` via `mvn clean package` e validar a execução via `STDIO`.
