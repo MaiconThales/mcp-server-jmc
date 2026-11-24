@@ -44,3 +44,6 @@ As assinaturas internas do `RuleRegistry` do JMC variam entre releases. Por isso
 fachada de regras fornece diagnósticos determinísticos baseados nos agregadores,
 sem depender de classes internas voláteis; o SDK MCP está declarado no Maven para o
 adaptador de transporte escolhido pelo cliente.
+
+## M8ven.ai
+[![M8ven Score](https://m8ven.ai/badge/mcp/maiconthales-mcp-server-jmc-8p41zu?v=beb1e65fcf1cf88c5dfa8a2eb4cea478)](https://m8ven.ai/mcp/maiconthales-mcp-server-jmc-8p41zu?s=readme)
