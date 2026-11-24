@@ -1,6 +1,6 @@
 # JMC Diagnostic MCP Server
 
-[![M8ven Score](https://m8ven.ai/badge/mcp/maiconthales-mcp-server-jmc)](https://m8ven.ai/mcp/maiconthales-mcp-server-jmc)
+[![M8ven Score](https://m8ven.ai/badge/mcp/maiconthales/mcp-server-jmc)](https://m8ven.ai/mcp/maiconthales/mcp-server-jmc?s=readme)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
