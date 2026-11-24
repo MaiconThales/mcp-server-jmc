@@ -1,5 +1,9 @@
 # JMC Diagnostic MCP Server
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/maiconthales-mcp-server-jmc)](https://m8ven.ai/mcp/maiconthales-mcp-server-jmc)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
+
 Servidor Java 21 para diagnóstico de gravações Java Flight Recorder. O núcleo usa
 `RecordingFile` (API estável do JDK) para permanecer compatível com versões diferentes
 do JMC; os módulos `flightrecorder*` e o SDK oficial MCP ficam disponíveis para
@@ -44,6 +48,3 @@ As assinaturas internas do `RuleRegistry` do JMC variam entre releases. Por isso
 fachada de regras fornece diagnósticos determinísticos baseados nos agregadores,
 sem depender de classes internas voláteis; o SDK MCP está declarado no Maven para o
 adaptador de transporte escolhido pelo cliente.
-
-## M8ven.ai
-[![M8ven Score](https://m8ven.ai/badge/mcp/maiconthales-mcp-server-jmc-8p41zu?v=063a20d4290df33799509ba24e7fc74c)](https://m8ven.ai/mcp/maiconthales-mcp-server-jmc-8p41zu?s=readme)
