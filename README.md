@@ -47,3 +47,4 @@ adaptador de transporte escolhido pelo cliente.
 
 ## M8ven.ai
 [![M8ven Score](https://m8ven.ai/badge/mcp/maiconthales-mcp-server-jmc-8p41zu?v=beb1e65fcf1cf88c5dfa8a2eb4cea478)](https://m8ven.ai/mcp/maiconthales-mcp-server-jmc-8p41zu?s=readme)
+[![M8ven Score](https://m8ven.ai/badge/mcp/maiconthales-mcp-server-jmc-8p41zu?v=063a20d4290df33799509ba24e7fc74c)](https://m8ven.ai/mcp/maiconthales-mcp-server-jmc-8p41zu?s=readme)
